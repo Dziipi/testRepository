@@ -26,4 +26,19 @@
 		<contenido>La cigüeña toca el saxofon detras del palanque de agua.</contenido>
 		<puntuacion>2</puntuacion>
 	</cuento>
+	
+	<cuento>
+		<titulo>El rumiante cervido tiende al accidente geografico</titulo>
+		<autor>
+			<nombre>Yolo</nombre>
+			<apellido>xxxx</apellido>
+			<apellido2>llll</apellido2>
+		</autor>
+		<editorial>wow rekt</editorial>
+		<idioma>wachiturro</idioma>
+		<edad-recomendada>2</edad-recomendada>
+		<contenido>...........</contenido>
+		<puntuacion>9</puntuacion>
+	</cuento>
+	
 </cuentos>
