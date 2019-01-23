@@ -1,0 +1,29 @@
+<cuentos>
+	<cuento>
+		<titulo>El bicho de la cueva</titulo>
+		<autor>
+			<nombre>Aitor</nombre>
+			<apellido>Tillas</apellido>
+			<apellido2>Blancas</apellido2>
+		</autor>
+		<editorial>Trash, s.l</editorial>
+		<idioma>indio</idioma>
+		<edad-recomendada>7</edad-recomendada>
+		<contenido>El veloz murcielago africano comia panchamente cardillo y kiwi</contenido>
+		<puntuacion>3</puntuacion>
+	</cuento>
+	
+	<cuento>
+		<titulo>El palomo del granero</titulo>
+		<autor>
+			<nombre>Eufrasio</nombre>
+			<apellido>del Rio</apellido>
+			<apellido2>Aguado</apellido2>
+		</autor>
+		<editorial>water ofc</editorial>
+		<idioma>indio</idioma>
+		<edad-recomendada>4</edad-recomendada>
+		<contenido>La cigüeña toca el saxofon detras del palanque de agua.</contenido>
+		<puntuacion>2</puntuacion>
+	</cuento>
+</cuentos>
