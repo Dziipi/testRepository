@@ -41,4 +41,18 @@
 		<puntuacion>9</puntuacion>
 	</cuento>
 	
+	<cuento>
+		<titulo>On the floor</titulo>
+		<autor>
+			<nombre>Goncho</nombre>
+			<apellido>Frost</apellido>
+			<apellido2></apellido2>
+		</autor>
+		<editorial>Made in spain</editorial>
+		<idioma>spanish</idioma>
+		<edad-recomendada>18</edad-recomendada>
+		<contenido>Existía un mago que siempre estaba en el suelo</contenido>
+		<puntuacion>10</puntuacion>
+	</cuento>
+	
 </cuentos>
