@@ -44,14 +44,14 @@
 	<cuento>
 		<titulo>On the floor</titulo>
 		<autor>
-			<nombre>Goncho</nombre>
-			<apellido>Frost</apellido>
-			<apellido2></apellido2>
+			<nombre>David</nombre>
+			<apellido>Rog</apellido>
+			<apellido2>Sub</apellido2>
 		</autor>
 		<editorial>Made in spain</editorial>
 		<idioma>spanish</idioma>
 		<edad-recomendada>18</edad-recomendada>
-		<contenido>Existía un mago que siempre estaba en el suelo, el no queria, pero estaba.</contenido>
+		<contenido>Existía un mago que siempre estaba en el suelo, el no queria, pero estaba. Tambien había un guerrero</contenido>
 		<puntuacion>10</puntuacion>
 		<comentario>Joder que gran historia</comentario>
 	</cuento>
